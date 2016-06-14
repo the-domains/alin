@@ -1,0 +1,28 @@
+name: alin
+favicon: null
+layout_spectrum: 0.8691216567531228
+typography_spectrum: 0.21527156815864146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5751712953206152
+  lightness: 0.28047469654120505
+  saturation: 0.06483036233112216
+  rhythmicContrast: 0.7698037370573729
+purpose: []

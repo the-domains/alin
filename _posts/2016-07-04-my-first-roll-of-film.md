@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: First Roll of Film
-datePublished: '2016-07-04T15:23:11.446Z'
-dateModified: '2016-07-04T15:22:40.118Z'
+datePublished: '2016-07-04T15:25:39.430Z'
+dateModified: '2016-07-04T15:23:19.321Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-04-my-first-roll-of-film.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-04-my-first-roll-of-film.md
 url: my-first-roll-of-film/index.html
 _type: Article
 

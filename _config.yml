@@ -1,6 +1,6 @@
 name: alin
 favicon: null
-layout_spectrum: 0.8691216567531228
+layout_spectrum: 0
 typography_spectrum: 0.21527156815864146
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5751712953206152
-  lightness: 0.28047469654120505
-  saturation: 0.06483036233112216
-  rhythmicContrast: 0.7698037370573729
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []

@@ -1,6 +1,6 @@
 name: alin
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.21527156815864146
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#434343'
+    - '#676767'
+    - '#c3c3c3'
+    - '#ededed'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
